@@ -21,15 +21,37 @@ B: “Street food market!”
 ### 2.1. Board Games with Vocabulary Focus:
 Use games like Codenames, Taboo, or Scrabble where participants must read, describe, or create words.
 
+### 2.2. Reading Session
+
+Read an article or something, then deliver the summary
+
 ### 2.2. Word Association Challenges:
 Start with one word, and members take turns saying related words (e.g., “beach → sand → sun → vacation”).
 
-## Phase 3: Improve Grammar Through Practice
+## Phase 3: Improve Grammer
 
-### 3.1. Story Chains
+### 3.1. Tenses Practice Session
+
+Choose one tense, discuss how to use it, and then practice by giving the example of the form
+
+### 3.2. Story Chains
 
 One member starts a story with one sentence. Each person adds a sentence while focusing on correct grammar.
 
-### 3.2. Role-Playing Games
+
+## Phase 4: Pronunciation
+
+### 4.1. Pronunciation Practice
+
+### 4.2. Blending
+
+## Phase 5: Improve Listening 
+
+### 5.1. Listen to music
+
+Choose one music, then listen to the music while writing the lyrics
+
+
+### 5.2. Role-Playing Games
 
 Act out scenarios like ordering at a restaurant, asking for directions, or interviewing for a job. Focus on common sentence structures.
