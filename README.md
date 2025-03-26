@@ -45,7 +45,7 @@ Hobbies & Free Time
 - If you could start a new hobby, what would it be?
 - Do you prefer indoor or outdoor activities? Why?
 
-3. Small talk using topic cards part 2
+### 3. Small talk using topic cards part 2
 
 Education & Learning
 - Do you prefer studying alone or in a group? Why?
