@@ -7,13 +7,13 @@ English Learning Roadmap
 ### 1. Introduction session
 
 We will split the participants into small groups of 3 to 5 members, each member must introduce themself one by one with their own words. 
-The member can tell everything about they want to share, for example 
-- motivation to learn english
-- what do you do in spare time
-- what is the current activities
+The member can tell everything they want to share, for example 
+- motivation to learn English
+- what do you do in your spare time
+- what are the current activities
 - what is your dream
 
-After each member finish their introduction, other members can ask some question, so small conversation can be happened
+After each member finishes their introduction, other members can ask some question, so small conversation can be happened
   
 ### 2. Small talk using topic cards
 
@@ -76,19 +76,31 @@ News & Current Events
 
 ### 4. Tell me about something
 
-We will split the members into small group, they will be given a list of goods, then each member need to randomly choose one good in the list and tell about it.
-For example, if they choose handphone, they can tell about : 
-- what handphone they ever have
-- what activity that they do using handphone
+We will split the members into small groups, they will be given a list of goods, and  then each member needs to randomly choose one good in the list and tell about it.
+For example, if they choose a handphone, they can tell about : 
+- what handphone did they ever have
+- what activity do they do using their handphone
 - what is their favorite handphone
 - etc
 
 ## Month 2: Improving Vocabulary
 
-1. Reading article
-2. Reading book
-3. Reading advanced words
-4. Game: Hangman
+### 1. Reading article
+
+We will split the audience into small groups, each member will look for one English article, and then they will give it to another member, so each member will have one article to read. 
+Then each member will read the article and share what they just learned from the article using their own words. Also, while reading the article, they will write a list of vocabulary and the meanings that they just know, and share it with the team.
+
+### 2. Reading book
+
+To be added
+
+### 3. Reading advanced words
+
+To be added
+
+### 4. Game: Hangman
+
+To be added
 
 ## Month 3: Improving Grammar
 
