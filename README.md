@@ -138,6 +138,8 @@ example :
 
 Make a team that has 2 - 3 members, then we make the tournament bracket. In 10 minutes, each team will try to solve as much wordle as possible. The team that solve the most wordle, will go to the next match. 
 
+https://www.nytimes.com/games/wordle/index.html
+
 ## Month 3: Improving Grammar
 
 1. Writing grammar
