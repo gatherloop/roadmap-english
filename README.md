@@ -87,20 +87,56 @@ For example, if they choose a handphone, they can tell about :
 
 ### 1. Reading article
 
-We will split the audience into small groups, each member will look for one English article, and then they will give it to another member, so each member will have one article to read. 
-Then each member will read the article and share what they just learned from the article using their own words. Also, while reading the article, they will write a list of vocabulary and the meanings that they just know, and share it with the team.
+We will split the audience into small groups, each member will look for one English article, and then they will give it to another member, so each member will have one article to read. Then each member will read the article and share what they learned from it in their own words. Also, while reading the article, they will write a list of vocabulary and the meanings they know, and share it with the team.
 
-### 2. Reading book
+### 2. Reading article (part 2)
 
-To be added
+We will split the audience into small groups, each member will look for one English article, and then they will give it to another member, so each member will have one article to read. Then each member will read the article and share what they learned from it in their own words. Also, while reading the article, they will write a list of vocabulary and the meanings they know, and share it with the team.
 
-### 3. Reading advanced words
+### 3. Vocabulary Chaining
 
-To be added
+Split the audience into small groups, each group will have some topics (e.g. kitchen, classroom, beach), and then each audience must mention one word related to that topic one by one. The audience that cannot mention the word, or mention similar words will get a punishment 
 
-### 4. Game: Hangman
+example :
 
-To be added
+- Kitchen
+  - pan
+  - stove
+  - gas
+  - fork
+  - spoon
+  - plate
+  - hungry
+  - food
+  - drink
+  - refrigerator
+  - chef
+- Class Room
+  - blackboard
+  - table
+  - chair
+  - teacher
+  - student
+  - window
+  - door
+  - presentation
+  - class chief
+  - late
+- Beach
+  - sea
+  - sand
+  - crab
+  - hot
+  - fish
+  - fishing
+  - sunset
+  - swimsuit
+  - swimming
+  - sunglasses   
+
+### 4. Wordle Tournament
+
+Make a team that has 2 - 3 members, then we make the tournament bracket. In 10 minutes, each team will try to solve as much wordle as possible. The team that solve the most wordle, will go to the next match. 
 
 ## Month 3: Improving Grammar
 
