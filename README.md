@@ -142,7 +142,7 @@ https://www.nytimes.com/games/wordle/index.html
 
 ## Month 3: Building Fluency
 
-3.1. Debate
-3.2. Speech
-3.3. Storytelling
-3.4. Podcast
+### 3.1. Debate
+### 3.2. Speech
+### 3.3. Storytelling
+### 3.4. Podcast
